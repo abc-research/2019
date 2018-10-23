@@ -33,11 +33,13 @@
 
                 <div class="col-lg-12">
                   <h3>Important dates</h3>
-                  <ul>
+                  <table>
                   {% for date in site.cfp.dates %}
-                  <li>{{date.name}}: {{date.date}}</li>
+                  <tr>
+                    <td><p>{{date.name}}</p></td><td>&nbsp; : &nbsp;</td><td><p>{{date.date}}</p></td>
+                  </tr>
                   {% endfor %}
-                  </ul>
+                  </table>
 
                 </div>
                 <div class="col-lg-8 col-lg-offset-2 text-center">

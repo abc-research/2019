@@ -93,15 +93,16 @@ cfp:
     - item: Business applications
     - item: ABC in the wild
   format:
-    - item: 2 - 6 pages in IEEE conference format (button below).
-    - item: After accepted, you can choose either of IEEE proceedings + USB, Open web + USB, or USB only.
-    - item: Submit from Microsoft CMT for ICIEV2019 and select the ABC (button below).
+    - item: IEEE conference format (button below).
+    - item: "2-6 pages: The authors can choose not for IEEE and hence, copyright is not transfered."
+    - item: "4-6 pages: The authors can choose to give copyright to IEEE then the paper will be sent to IEEE Xplore as ICIEV-IVPR 2019 proceedings. "
+    - item: Submit from Microsoft CMT for ICIEV2019  (button below) and select the ABC.
   dates:
-    - name: Paper submission deadline
-      date: Dec. 17, 2018
+    - name: Paper submission
+      date: <b style="color:pink">Dec. 17, 2018</b>
     - name: Review result
       date: Jan. 31, 2018
-    - name: Camera ready submission
+    - name: Camera ready
       date: Feb. 12, 2018
   submit_url: https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FICIEVIVPR2019
   template_url: https://www.ieee.org/conferences/publishing/templates.html
