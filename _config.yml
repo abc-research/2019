@@ -1,12 +1,13 @@
 # Site settings
 title: ABC2019
-email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+email: abc@sozolab.jp
+url: https://abc-research.github.io
+description: "The First International Conference on Activity and Behavior Computing (ABC), which includes Human Activity Recognition with mobile / environmental sensors in ubiquitous / pervasive domains and with cameras in vision domains, and Human Behavior Analysis for long-term health care, rehabilitation, emotion recognition, human interaction, and so on."
+- text: "In this conference, we comprehend such research domains as <b>ABC</b>: <i>Activity and Behavior Computing</i>, and provide an open and a confluent place for discussing various aspects and the future of the ABC."
 keywords: "your keywords, separated by commas"
 conf_title1: "The First International Conference on"
 conf_title2: "Activity and Behavior Computing"
-meta_author: LastName FirstName
+meta_author: Sozo Inoue
 location: Eastern Washington University, USA
 date: April 26-29, 2019
 conjunction:
