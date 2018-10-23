@@ -72,7 +72,7 @@ committee:
 
 cfp:
   text:
-    - text: "We welcome full technical papers, as well as concept papers to find out the future direction of ABC research. That is, we are of course interested in the accuracy and performance of ABC, but also problem finding papers based on real experiences."
+    - text: "We welcome full technical papers, as well as concept papers related to ABC research. Technical papers describe the accuracy and performance of ABC Systems, real deployment cases or application of new paradigms such as deep learning to ABC. Concept papers describe the challenges and future directions of ABC based on  problems that arise when systems are deployed in real settings."
     - text: "The submitted papers are peer reviewed by experienced researchers, and accepted based on the research quality. An accepted paper can be either published in IEEE proceedings + USB, Open web + USB, or USB only upon authors' preference."
   scope:
     - item: Mobile sensor-based ABC
@@ -93,9 +93,9 @@ cfp:
     - item: Business applications
     - item: ABC in the wild
   format:
-    - item: 2 - 6 pages in IEEE conference format.
+    - item: 2 - 6 pages in IEEE conference format (button below).
     - item: After accepted, you can choose either of IEEE proceedings + USB, Open web + USB, or USB only.
-    - item: Submit from Microsoft CMT for ICIEV2019 and select the ABC.
+    - item: Submit from Microsoft CMT for ICIEV2019 and select the ABC (button below).
   dates:
     - name: Paper submission deadline
       date: Dec. 17, 2018
@@ -104,6 +104,7 @@ cfp:
     - name: Camera ready submission
       date: Feb. 12, 2018
   submit_url: https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FICIEVIVPR2019
+  template_url: https://www.ieee.org/conferences/publishing/templates.html
 
 
 
