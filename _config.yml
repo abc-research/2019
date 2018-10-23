@@ -9,7 +9,9 @@ conf_title2: "Activity and Behavior Computing"
 meta_author: LastName FirstName
 location: Eastern Washington University, USA
 date: April 26-29, 2019
-
+conjunction:
+  name: ICIEV&IVPR2019
+  url: http://cennser.org/ICIEV/
 
 # Google webmaster tools
 google_verify:
