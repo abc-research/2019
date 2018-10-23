@@ -1,0 +1,24 @@
+ <!-- About Section -->
+    <section id="committee">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>Committee</h2>
+                    <hr class="star-primary">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+
+                  {% for committee in site.committee %}
+                  <h3>{{ committee.role }}</h3>
+                    {% for member in committee.member %}
+                      <p><b>{{ member.name }}</b>, <i>{{member.affil}}</i></p>
+                    {% endfor %}
+                  {% endfor %}
+                </div>
+                <div class="col-lg-4">
+                </div>
+            </div>
+        </div>
+    </section>
