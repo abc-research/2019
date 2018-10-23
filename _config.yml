@@ -10,6 +10,7 @@ meta_author: LastName FirstName
 location: Eastern Washington University, USA
 date: April 26-29, 2019
 
+
 # Google webmaster tools
 google_verify:
 
@@ -41,8 +42,8 @@ footer:
   credits: Credits
 
 about:
-  - text: "<b>Human Activity Recognition</b> has been researched in thousands of papers so far, with mobile / environmental sensors in ubiquitous / pervasive domains, and with cameras in vision domains. As well, <b>Human Behavior Analysis</b> is also explored for long-term health care, emotion recognition, human interaction, and so on. However, many research challenges remain for realistic settings, such as complex and ambiguous activities / behavior, optimal sensor combinations, (deep) machine learning, dataset collection, platform systems, and killer applications."
-  - text: "In this conference, we comprehend such research domains as <b>ABC</b>: Activity and Behavior Computing, and provide an open and a confluent place for discussing various aspects and the future of the ABC."
+  - text: "<b>Human Activity Recognition</b> has been researched in thousands of papers so far, with mobile / environmental sensors in ubiquitous / pervasive domains, and with cameras in vision domains. As well, <b>Human Behavior Analysis</b> is also explored for long-term health care, rehabilitation, emotion recognition, human interaction, and so on. However, many research challenges remain for realistic settings, such as complex and ambiguous activities / behavior, optimal sensor combinations, (deep) machine learning, data collection, platform systems, and killer applications."
+  - text: "In this conference, we comprehend such research domains as <b>ABC</b>: <i>Activity and Behavior Computing</i>, and provide an open and a confluent place for discussing various aspects and the future of the ABC."
 
 # Committee members
 committee:
@@ -66,6 +67,42 @@ committee:
     member:
       - name: TBD
         affil: TBD
+
+cfp:
+  text:
+    - text: "We welcome full technical papers, as well as concept papers to find out the future direction of ABC research. That is, we are of course interested in the accuracy and performance of ABC, but also problem finding papers based on real experiences."
+    - text: "The submitted papers are peer reviewed by experienced researchers, and accepted based on the research quality. An accepted paper can be either published in IEEE proceedings + USB, Open web + USB, or USB only upon authors' preference."
+  scope:
+    - item: Mobile sensor-based ABC
+    - item: Environmental sensor-based ABC
+    - item: Vision-based ABC
+    - item: Multimodal ABC
+    - item: Physical / semantic analysis of ABC
+    - item: Gait analysis
+    - item: Sleep analysis
+    - item: Emotion recognition / analysis
+    - item: ABC with deep learning
+    - item: ABC data mining
+    - item: Data collection
+    - item: ABC systems
+    - item: Interactive ABC
+    - item: Healthcare applications
+    - item: Sports applications
+    - item: Business applications
+    - item: ABC in the wild
+  format:
+    - item: 2 - 6 pages in IEEE conference format.
+    - item: After accepted, you can choose either of IEEE proceedings + USB, Open web + USB, or USB only.
+    - item: Submit from Microsoft CMT for ICIEV2019 and select the ABC.
+  dates:
+    - name: Paper submission deadline
+      date: Dec. 17, 2018
+    - name: Review result
+      date: Jan. 31, 2018
+    - name: Camera ready submission
+      date: Feb. 12, 2018
+  submit_url: https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FICIEVIVPR2019
+
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)

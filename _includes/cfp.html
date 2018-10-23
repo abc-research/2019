@@ -8,17 +8,43 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-4 col-lg-offset-2">
-                  <h3>TBD</h3>
-                    quality of papers
-                    <p>important dates:</p>
+                <div class="col-lg-12">
+                  {% for text in site.cfp.text %}
+                  <p>{{text.text}}</p>
+                  {% endfor %}
+
+                <div class="col-lg-12">
+                  <h3>Scope</h3>
+                  <ul>
+                  {% for scope in site.cfp.scope %}
+                  <li>{{scope.item}}</li>
+                  {% endfor %}
+                  </ul>
                 </div>
-                <div class="col-lg-4">
-                    <p>IEEE conference format</p>
-                    <p>2-6 pages</p>
-                    <p>IEEE or not or usb only</p>
-                    <p>Deadine: </p>
+
+                <div class="col-lg-12">
+                  <h3>Format</h3>
+                  <ul>
+                  {% for format in site.cfp.format %}
+                  <li>{{format.item}}</li>
+                  {% endfor %}
+                  </ul>
                 </div>
+
+                <div class="col-lg-12">
+                  <h3>Important dates</h3>
+                  <ul>
+                  {% for date in site.cfp.dates %}
+                  <li>{{date.name}}: {{date.date}}</li>
+                  {% endfor %}
+                  </ul>
+
+                </div>
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <a href="{{ site.cfp.submit_url }}" class="btn btn-lg btn-outline"/>
+                        <i class="fa fa-upload"></i> Submit </a>
+                </div>
+
             </div>
         </div>
     </section>
