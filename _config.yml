@@ -79,7 +79,7 @@ committee:
 cfp:
   text:
     - text: "We welcome full technical papers, as well as concept papers related to ABC research. Technical papers describe the accuracy and performance of ABC Systems, real deployment cases or application of new paradigms such as deep learning to ABC. Concept papers describe the challenges and future directions of ABC based on  problems that arise when systems are deployed in real settings."
-    - text: "The submitted papers are peer reviewed by experienced researchers, and accepted based on the research quality. An accepted paper can be either published in IEEE proceedings + USB, Open web + USB, or USB only upon authors' preference."
+    - text: "The submitted papers are peer reviewed by experienced researchers, and accepted based on the research quality. To accept various research stages, an accepted paper can be either published in IEEE proceedings + USB, Open web + USB, or USB only upon authors' preference."
   scope:
     - item: Mobile sensor-based ABC
     - item: Environmental sensor-based ABC
