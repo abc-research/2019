@@ -61,12 +61,16 @@ committee:
         affil: Toyohashi University of Technology, Japan
       - name: Kazuya Murao
         affil: Ritsumeikan University, Japan
-  - role: Advisory Committee
+  - role: Advisory Committee (tentative)
     member:
+      - name: Daniel Roggen
+        affil: University of Sussex, UK
       - name: TBD
         affil: TBD
   - role: Program Committee
     member:
+      - name: Kristof Van Laerhoven
+        affil: University of Siegen, Germany
       - name: TBD
         affil: TBD
 
