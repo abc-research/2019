@@ -61,18 +61,20 @@ committee:
         affil: Toyohashi University of Technology, Japan
       - name: Kazuya Murao
         affil: Ritsumeikan University, Japan
-  - role: Advisory Committee (tentative)
+  - role: Advisory Board (TBD)
     member:
       - name: Daniel Roggen
         affil: University of Sussex, UK
-      - name: TBD
-        affil: TBD
-  - role: Program Committee (tentative)
+      - affil: TBD
+  - role: Program Committee (TBD)
     member:
       - name: Kristof Van Laerhoven
         affil: University of Siegen, Germany
-      - name: TBD
-        affil: TBD
+      - name: Daniel Roggen
+        affil: University of Sussex, UK
+      - name: Susanna Pirttikangas
+        affil: University of Oulu, Finland
+
 
 cfp:
   text:
@@ -95,6 +97,7 @@ cfp:
     - item: Healthcare applications
     - item: Sports applications
     - item: Business applications
+    - item: Tools for industry
     - item: ABC in the wild
   format:
     - item: IEEE conference format (button below).
