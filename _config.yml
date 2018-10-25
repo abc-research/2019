@@ -63,6 +63,8 @@ committee:
         affil: Ritsumeikan University, Japan
   - role: Advisory Board (TBD)
     member:
+      - name: Paul Lukowicz
+        affil: DFKI, Germany
       - name: Daniel Roggen
         affil: University of Sussex, UK
       - affil: TBD
