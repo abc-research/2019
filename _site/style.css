@@ -105,13 +105,17 @@ header img {
 
 header .intro-text .name {
     display: block;
-    text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 2em;
+    font-size: 3em;
     font-weight: 700;
 }
 
-header .intro-text .skills {
+header .intro-text .sub {
+    display: block;
+    font-size: 2em;
+    font-weight: 300;
+}
+
+header .intro-text .info {
     font-size: 1.5em;
     font-weight: 300;
 }
@@ -126,8 +130,12 @@ header .intro-text .skills {
         font-size: 4.75em;
     }
 
-    header .intro-text .conf-name {
-        font-size: 2.30em;
+    header .intro-text .sub {
+        font-size: 3em;
+    }
+
+    header .intro-text .info {
+        font-size: 1.5 em;
     }
 }
 
