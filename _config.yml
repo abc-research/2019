@@ -61,13 +61,12 @@ committee:
         affil: Toyohashi University of Technology, Japan
       - name: Kazuya Murao
         affil: Ritsumeikan University, Japan
-  - role: Advisory Board (TBD)
+  - role: Advisory Board
     member:
       - name: Paul Lukowicz
         affil: DFKI, Germany
       - name: Daniel Roggen
         affil: University of Sussex, UK
-      - affil: TBD
   - role: Program Committee (TBD)
     member:
       - name: Kristof Van Laerhoven
