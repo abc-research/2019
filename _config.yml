@@ -65,6 +65,8 @@ committee:
     member:
       - name: Paul Lukowicz
         affil: DFKI, Germany
+      - name: Kristof Van Laerhoven
+        affil: University of Siegen, Germany
       - name: Daniel Roggen
         affil: University of Sussex, UK
   - role: Program Committee (TBD)
