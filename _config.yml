@@ -62,6 +62,7 @@ committee:
       - name: Kazuya Murao
         affil: Ritsumeikan University, Japan
   - role: Publicity Chairs
+    member:
       - name: Paula Lago
         affil: Kyushu Institute of Technology, Japan
   - role: Advisory Board
