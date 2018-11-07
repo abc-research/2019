@@ -125,8 +125,8 @@ cfp:
     - item: ABC in the wild
   format:
     - item: IEEE conference format (button below).
-    - item: "2-6 pages: The authors can choose not for IEEE and hence, copyright is not transfered."
     - item: "4-6 pages: The authors can choose to give copyright to IEEE then the paper will be sent to IEEE Xplore as ICIEV-IVPR 2019 proceedings. "
+    - item: "2-6 pages: The authors can choose not for IEEE and hence, copyright is not transfered."
     - item: Submit from Microsoft CMT for ICIEV2019  (button below) and select the ABC.
   dates:
     - name: Paper submission
