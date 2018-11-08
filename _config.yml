@@ -96,7 +96,7 @@ committee:
       - name: Stephan Sigg
         affil: Aalto University, Finland
       - name: Hiroki Watanabe
-        affil: Hokkaido university, Japan
+        affil: Hokkaido University, Japan
       - name: Pascal Hirmer
         affil: University of Stuttgart, Germany
       - name: Shigeyuki Miyagi
@@ -138,9 +138,11 @@ cfp:
     - name: Paper submission
       date: <b style="color:pink">Dec. 17, 2018</b>
     - name: Review result
-      date: Jan. 31, 2018
+      date: Jan. 31, 2019
     - name: Camera ready
-      date: Feb. 12, 2018
+      date: Feb. 12, 2019
+    - name: Conference
+      date: Apr. 26 - 29, 2019
   submit_url: https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FICIEVIVPR2019
   template_url: https://www.ieee.org/conferences/publishing/templates.html
 
