@@ -73,6 +73,12 @@ committee:
         affil: University of Siegen, Germany
       - name: Daniel Roggen
         affil: University of Sussex, UK
+  - role: Secretaries
+    member:
+      - name: Tahera Hossain
+        affil: Kyushu Institute of Technology, Japan
+      - name: Moe Matsuki
+        affil: Kyushu Institute of Technology, Japan
   - role: Program Committee (TBA)
     member:
       - name: Kristof Van Laerhoven
@@ -106,7 +112,7 @@ committee:
       - name: Anja Exler
         affil: Karlsruhe Institute of Technology, Germany
       - name: Kristina Yordanova 
-        affil: University of Rostock
+        affil: University of Rostock, Germany
 
 
 
