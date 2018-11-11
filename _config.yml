@@ -61,9 +61,13 @@ committee:
         affil: Toyohashi University of Technology, Japan
       - name: Kazuya Murao
         affil: Ritsumeikan University, Japan
-  - role: Publicity Chairs
+  - role: Publicity Chair
     member:
       - name: Paula Lago
+        affil: Kyushu Institute of Technology, Japan
+  - role: Publication Chair
+    member:
+      - name: Tsuyoshi Okita
         affil: Kyushu Institute of Technology, Japan
   - role: Advisory Board
     member:
