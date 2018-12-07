@@ -117,7 +117,7 @@ committee:
         affil: Nagoya University, Japan
       - name: Anja Exler
         affil: Karlsruhe Institute of Technology, Germany
-      - name: Kristina Yordanova 
+      - name: Kristina Yordanova
         affil: University of Rostock, Germany
       - name: Trung Thanh NGO
         affil: Osaka University, Japan
@@ -179,15 +179,15 @@ cfp:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: http://twitter.com/ABC_Conference
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: https://fb.me/ActivityBehaviorComputingConference
+#  - title: stack-overflow
+#    url: http://stackoverflow.com/questions/tagged/jekyll
+#  - title: bitbucket
+#    url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/abc-research
 
 
 # Postal address (add as many lines as necessary)
