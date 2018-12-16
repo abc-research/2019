@@ -164,7 +164,7 @@ cfp:
     - item: Submit from Microsoft CMT for ICIEV2019  (button below) and select the ABC.
   dates:
     - name: Paper submission
-      date: <b style="color:pink"><strike>Dec. 17, 2018</strike> Jan. 15, 2019!</b>
+      date: <strike>Dec. 17, 2018</strike> <b style="color:pink">Jan. 15, 2019!</b>
     - name: Review result
       date: <strike>Jan. 31, 2019</strike> Feb. 15, 2019
     - name: Camera ready
