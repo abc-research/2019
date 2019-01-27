@@ -79,6 +79,8 @@ committee:
         affil: University of Sussex, UK
       - name: Michael Beigl
         affil: Karlsruhe Institute of Technology, Germany
+      - name: Jeffry Cohn
+        affil: University of Pittsburgh, USA
   - role: Secretaries
     member:
       - name: Tahera Hossain
@@ -131,6 +133,8 @@ committee:
         affil: University of Engineering & Technology, Bangladesh
       - name: Upal Mahbub
         affil: University of Meryland, College Park, USA
+      - name: Atsushi Shimada
+        affil: Kyushu University, Japan
 
 
 
