@@ -8,7 +8,7 @@ conf_title1: "International Conference on"
 conf_title2: "Activity and Behavior Computing"
 meta_author: Sozo Inoue
 location: Eastern Washington University, USA
-date: <b>IMPORTANT!</b> The conference date will be pushed back to <b style="color:pink">End of May!</b><br/>It will be announced in a few days.<br/>May, 2019
+date: <b>IMPORTANT!</b> The conference date has been changed!<br/>May 30 - Jun. 2, 2019
 conjunction:
   name: ICIEV&IVPR2019
   url: http://cennser.org/ICIEV/
@@ -174,7 +174,7 @@ cfp:
     - name: Camera ready
       date: <strike>Feb. 12, 2019</strike> &rarr;Feb. 28, 2019
     - name: Conference
-      date: <strike>Apr. 26 - 29, 2019</strike> May,  2019
+      date: <strike>Apr. 26 - 29, 2019</strike> May, 30 - Jun. 2, 2019
   submit_url: https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FICIEVIVPR2019
   template_url: https://www.ieee.org/conferences/publishing/templates.html
 
