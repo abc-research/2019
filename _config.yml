@@ -168,11 +168,11 @@ cfp:
     - item: Submit from Microsoft CMT for ICIEV2019  (button below) and select the ABC.
   dates:
     - name: Paper submission
-      date: <strike>Dec. 17, 2018</strike> <b style="color:pink">&rarr;Jan. 15, 2019 (Anywhere on Earth)!</b>
+      date: <strike>Dec. 17, 2018</strike> Jan. 15, 2019 (Anywhere on Earth)!
     - name: Review result
-      date: <strike>Jan. 31, 2019</strike> &rarr;Feb. 15, 2019
+      date: <strike>Jan. 31, 2019</strike> Feb. 15, 2019
     - name: Camera ready
-      date: <strike>Feb. 12, 2019</strike> &rarr;Mar. 22, 2019
+      date: <strike>Feb. 12, 2019</strike> <b style="color:pink">Mar. 22, 2019</b>
     - name: Conference
       date: <strike>Apr. 26 - 29, 2019</strike> May, 30 - Jun. 2, 2019
   submit_url: https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FICIEVIVPR2019
