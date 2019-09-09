@@ -48,13 +48,16 @@ about:
   - text: "In this conference, we comprehend such research domains as <b>ABC</b>: <i>Activity and Behavior Computing</i>, and provide an open and a confluent place for discussing various aspects and the future of the ABC."
 
 
-session:
-  - name: Session 1, Jun. 1st, 2019
-    paper: 
-      - time: hoge
-        authors: auauau
-  - name: Session 2, Jun. 1st, 2019
-  - name: Session 3, Jun. 1st, 2019
+program:
+  − date: Jun. 1st, 2019
+    - session:
+      - name: Session 1
+        paper: 
+          - title: Challenges in Sensor-based Human Activity Recognition and a Comparative Analysis of Benchmark Datasets: A Review
+            authors: hogehoge
+      - name: Session 2
+  
+      - name: Session 3
   
   
 
