@@ -49,16 +49,19 @@ about:
 
 
 program:
-  - date: General Chairs
+  - date: "Jun. 1st, 2019"
     session: 
       - name: Session 1
-        time: 10:00-12:00
+        time: "8:50-10:10"
         paper: 
           - title: "Challenges in Sensor-based Human Activity Recognition and a Comparative Analysis of Benchmark Datasets: A Review"
             authors: hogehoge
       - name: Session 2
+        time: "10:20-11:40"
       - name: Session 3
-  
+        time: "13:30-14:50"
+      - name: Session 4
+        time: "15:20-17:00"
   
 
 # Committee members
