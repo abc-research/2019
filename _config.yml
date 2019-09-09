@@ -81,7 +81,7 @@ program:
           - title: "Toward Projection Learning between Sensor Data and Semantic Word Vector for Zero-shot Learning"
             authors: "Moe Matsuki (Kyushu Institute of Technology)*; Sozo Inoue (Kyushu Institute of Technology)"
           - title: "An Approach to Classify Human Activities in Real-time from Smartphone Sensor data"
-            authors: "Masud Ahmed (University of Dhaka); Anindya Das Antar (University of Dhaka)*; Md Atiqur Rahman Ahad (University of Dhaka)"e
+            authors: "Masud Ahmed (University of Dhaka); Anindya Das Antar (University of Dhaka)*; Md Atiqur Rahman Ahad (University of Dhaka)"
       - name: Session 4
         time: "15:20-17:00"
         paper: 
