@@ -47,6 +47,17 @@ about:
   - text: "<b>Human Activity Recognition</b> has been researched in thousands of papers so far, with mobile / environmental sensors in ubiquitous / pervasive domains, and with cameras in vision domains. As well, <b>Human Behavior Analysis</b> is also explored for long-term health care, rehabilitation, emotion recognition, human interaction, and so on. However, many research challenges remain for realistic settings, such as complex and ambiguous activities / behavior, optimal sensor combinations, (deep) machine learning, data collection, platform systems, and killer applications."
   - text: "In this conference, we comprehend such research domains as <b>ABC</b>: <i>Activity and Behavior Computing</i>, and provide an open and a confluent place for discussing various aspects and the future of the ABC."
 
+
+session:
+  - name: Session 1, Jun. 1st, 2019
+    paper: 
+      - time: hoge
+        authors: auauau
+  - name: Session 2, Jun. 1st, 2019
+  - name: Session 3, Jun. 1st, 2019
+  
+  
+
 # Committee members
 committee:
   - role: General Chairs
