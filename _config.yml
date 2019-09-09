@@ -56,12 +56,30 @@ program:
         paper: 
           - title: "Challenges in Sensor-based Human Activity Recognition and a Comparative Analysis of Benchmark Datasets: A Review"
             authors: hogehoge
+          - title: "Integrating Activity Recognition and Nursing Care Records: The System, Experiment, and the Dataset"
+          - title: "Challenges for data collecting of teacher and student' behavior in different types of class using video and wearable device"
       - name: Session 2
         time: "10:20-11:40"
+        paper: 
+          - title: "WLCSSLearn: Learning Algorithm for Template Matching-based Gesture Recognition Systems"
+          - title: "Towards Visual Behavior Detection in Human-Machine Conversations"
+          - title: "Crowdsourcing System Management for Activity Data with Mobile Sensors"
+          - title: "Active sensing system for measuring distress level using mood induction music"
       - name: Session 3
         time: "13:30-14:50"
+        paper: 
+          - title: "Understanding Compatibility-based Classifier Personalization in Activity Recognition"
+          - title: "Proposal of Easily Distributable Insole Type Gait Sensor for Health Promotion of Elderly People"
+          - title: "Toward Projection Learning between Sensor Data and Semantic Word Vector for Zero-shot Learning"
+          - title: "An Approach to Classify Human Activities in Real-time from Smartphone Sensor data"
       - name: Session 4
         time: "15:20-17:00"
+        paper: 
+          - title: "Parametric Study of Student Learning in IT Using Data Mining to Improve Academic Performance"
+          - title: "Comparing Feature Learning Methods for Human Activity Recognition: Performance study in new user scenario"
+          - title: "Hybrid Activity Recognition for Ballroom Dance Exercise using Video and Wearable Sensor"
+          - title: "Human and Machine Recognition of Transportation Modes from Body-Worn Camera Images"
+          - title: "A Comparative Study on Missing Data Handling Using Machine Learning for Human Activity Recognition"
   
 
 # Committee members
