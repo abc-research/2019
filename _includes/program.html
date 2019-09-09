@@ -17,10 +17,12 @@
                 {% for date in site.program %}
                   <h３>{{ date.date}}</h３>
                   {% for session in date.session %}
-                    <h４>{{ session.name }}, {{session.time}}</h4>
+                    <h4>{{ session.name }}, {{session.time}}</h4>
+                    <ul>
                     {% for paper in session.paper %}
-                      <p><b>{{ paper.title }}</b>, <i>{{paper.authors}}</i></p>
+                      <ul><b>{{ paper.title }}</b>, <i>{{paper.authors}}</i></ul>
                     {% endfor %}
+                    </ul>
                   {% endfor %}
                 {% endfor %}
               </div>
