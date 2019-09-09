@@ -15,7 +15,7 @@
               
               <div class="row">
                 {% for date in site.program %}
-                  <h3>{{ date.date}}</h3>
+                  <h4>{{ date.date}}</h4>
                   {% for session in date.session %}
                     <h3>{{ session.name }}, {{session.time}}</h3>
                     {% for paper in session.paper %}
