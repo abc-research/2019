@@ -49,7 +49,7 @@ about:
 
 
 program:
-  − date: Jun. 1st, 2019
+  − date: "Jun. 1st, 2019"
     session: 
       - name: Session 1
         time: 10:00-12:00
