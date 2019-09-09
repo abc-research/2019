@@ -54,7 +54,7 @@ program:
       - name: Session 1
         time: 10:00-12:00
         paper: 
-          - title: Challenges in Sensor-based Human Activity Recognition and a Comparative Analysis of Benchmark Datasets: A Review
+          - title: "Challenges in Sensor-based Human Activity Recognition and a Comparative Analysis of Benchmark Datasets: A Review"
             authors: hogehoge
       - name: Session 2
       - name: Session 3
