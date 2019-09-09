@@ -14,11 +14,14 @@
               </p>
               
               <div class="row">
-                {% for session in site.session %}
-                  <h3>{{ session.name }}</h3>
+                {% for date in site.program %}
+                  <h3>{{ date.date}}</h3>
+                  {% for session in date.session %}
+                    <h3>{{ session.name }}</h3>
                     {% for paper in session.paper %}
                       <p><b>{{ paper.title }}</b>, <i>{{paper.authors}}</i></p>
                     {% endfor %}
+                  {% endfor %}
                 {% endfor %}
               </div>
             </div>
