@@ -8,16 +8,19 @@
                 </div>
             </div>
             <div class="row">
-              <p>You can see the program from 
+              <p>You can see the full program from 
                <a href="http://cennser.org/ICIEV19/program.pdf">
                 <b style="color:pink">HERE</b></a>.
               </p>
-              <ul>
-               <li><b>May 30th</b>: Workshops</li>
-               <li><b>May 31st</b>: Main</li>
-               <li><b>Jun 1st</b>: Main</li>
-               <li><b>Jun 2nd</b>: Tour</li>
-              </ul>
+              
+              <div class="row">
+                {% for session in site.session %}
+                  <h3>{{ session.name }}</h3>
+                    {% for paper in session.paper %}
+                      <p><b>{{ paper.title }}</b>, <i>{{paper.authors}}</i></p>
+                    {% endfor %}
+                {% endfor %}
+              </div>
             </div>
         </div>
     </section>
