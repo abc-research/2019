@@ -88,6 +88,7 @@ program:
         time: "15:20-17:00"
         paper: 
           - title: "Parametric Study of Student Learning in IT Using Data Mining to Improve Academic Performance"
+            authors: "Rubyeat Islam, Muhammad Tawsif Sazid, Sharifa Rania Mahmud, Chowdhury Nawrin Ferdous, Reshad Reza (Military Institute of Science and Technology), Syed Akhter Hossain (Daffodil International University)"
           - title: "Comparing Feature Learning Methods for Human Activity Recognition: Performance study in new user scenario"
             authors: "Paula Lago (Kyutech)*; Sozo Inoue (Kyushu Institute of Technology)"
           - title: "Hybrid Activity Recognition for Ballroom Dance Exercise using Video and Wearable Sensor"
